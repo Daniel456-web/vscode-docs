@@ -1,4 +1,4 @@
----pine
+---
 ContentId: DE4EAE2F-4542-4363-BB74-BE47D64141E6
 DateApproved: 07/09/2025
 MetaDescription: Learn about the basic editing features of Visual Studio Code. Search, multiple selection, code formatting.
